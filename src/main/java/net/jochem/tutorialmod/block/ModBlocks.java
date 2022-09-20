@@ -22,7 +22,7 @@ public class ModBlocks {
     public static final Block COOKIE_ORE = registerBlock("cookie_ore",
             new OreBlock(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool(), UniformIntProvider.create(3, 7)), ModItemGroup.COOKIES);
 
-    public static final Block DEEPSLATE_COOKIE_ORE = registerBlock("deepslate_cookie_ore.json",
+    public static final Block DEEPSLATE_COOKIE_ORE = registerBlock("deepslate_cookie_ore",
             new OreBlock(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool(), UniformIntProvider.create(3, 7)), ModItemGroup.COOKIES);
 
     private static Block registerBlock(String name, Block block, ItemGroup tab) {
