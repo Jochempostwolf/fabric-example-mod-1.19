@@ -1,3 +1,5 @@
 {
-  "item.tutorialmod.cookie_dough": "Cookie Dough"
+  "item.tutorialmod.cookie_dough": "Cookie Dough",
+
+  "itemGroup.tutorialmod.cookies": "Cookies"
 }
