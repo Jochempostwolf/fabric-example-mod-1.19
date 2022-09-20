@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tutorialmod:cookie_dough"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:dough_block"
+  }
+}
