@@ -2,6 +2,8 @@
   "item.tutorialmod.cookie_dough": "Cookie Dough",
 
   "block.tutorialmod.dough_block": "Dough Block",
+  "block.tutorialmod.cookie_ore": "Cookie Ore",
+  "block.tutorialmod.deepslate_cookie_ore": "Deepslate Cookie Ore",
 
   "itemGroup.tutorialmod.cookies": "Cookies"
 }
