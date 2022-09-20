@@ -1,5 +1,7 @@
 {
   "item.tutorialmod.cookie_dough": "Cookie Dough",
 
+  "block.tutorialmod.dough_block": "Dough Block",
+
   "itemGroup.tutorialmod.cookies": "Cookies"
 }
