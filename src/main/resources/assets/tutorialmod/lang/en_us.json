@@ -1,6 +1,8 @@
 {
   "item.tutorialmod.cookie_dough": "Cookie Dough",
   "item.tutorialmod.baked_cookie": "Baked Cookie",
+  "item.tutorialmod.grandmas_cookie": "Grandma's Cookie",
+  "item.tutorialmod.grandmas_dough": "Grandma's Dough",
 
   "block.tutorialmod.dough_block": "Dough Block",
   "block.tutorialmod.cookie_ore": "Cookie Ore",
